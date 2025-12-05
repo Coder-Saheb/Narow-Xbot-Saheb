@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ASaheb_logo.jpg&psig=AOvVaw2S9-I7R726Pi_xnRAIhiCf&ust=1765032951905000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDWxqPappEDFQAAAAAdAAAAABAEtype=speech&height=200&color=gradient&text=WE'LL%20COME%20🥳&animation=blinking&fontAlign=36&fontAlignY=36&descAlign=62&reversal=false&textBg=false" width="100%">
+  <img src="https://i.pinimg.com/736x/3e/b4/11/3eb4110870c08db8cc69f963d440c53e.jpg,type=speech&height=200&color=gradient&text=WE'LL%20COME%20🥳&animation=blinking&fontAlign=36&fontAlignY=36&descAlign=62&reversal=false&textBg=false" width="100%">
 </div>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=70&pause=500&color=00FF00&center=true&width=1150&height=200&lines=PLEASE-FORK-STAR-BOT-REPO" alt="Typing SVG" /></a>
