@@ -5,7 +5,7 @@
   <img src="https://i.pinimg.com/736x/3e/b4/11/3eb4110870c08db8cc69f963d440c53e.jpg&type=speech&height=200&color=gradient&text=WE'LL%20COME%20🥳&animation=blinking&fontAlign=36&fontAlignY=36&descAlign=62&reversal=false&textBg=false" width="100%">
 </div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=70&pause=500&color=00FF00&center=true&width=500&height=100&lines=This-Program-Develop-By-SOMAGAM" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=70&pause=500&color=00FF00&center=true&width=2000&height=100&lines=This-Program-Develop-By-SOMAGAM" alt="Typing SVG" /></a>
   </div>
 <a><img src='https://i.pinimg.com/736x/3e/b4/11/3eb4110870c08db8cc69f963d440c53e.jpg'/></a>
 
