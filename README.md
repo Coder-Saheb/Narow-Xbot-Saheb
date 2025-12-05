@@ -7,7 +7,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=70&pause=500&color=00FF00&center=true&width=1150&height=200&lines=This-Program-Develop-By-SOMAGAM" alt="Typing SVG" /></a>
   </div>
-<a><img src='https://i.ibb.co/VWt5CXzX/malvin-xd.jpg'/></a>
+<a><img src='https://i.pinimg.com/736x/3e/b4/11/3eb4110870c08db8cc69f963d440c53e.jpg'/></a>
 
 <!-- 📊 STATS & HERO ANIMATION (Updated Colors) -->
 <div align="center">
@@ -23,7 +23,7 @@
 
   <!-- Hero GIF with updated border & hover effect -->
   <p>
-    <img src="https://i.imgur.com/LyHic3i.gif" alt="Techwave Animation" style="max-width:100%; border-radius:16px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://i.pinimg.com/736x/3e/b4/11/3eb4110870c08db8cc69f963d440c53e.jpg" alt="Techwave Animation" style="max-width:100%; border-radius:16px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
   </p>
 
 </div>
