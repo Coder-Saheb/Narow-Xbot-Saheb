@@ -5,7 +5,7 @@
   <img src="https://i.pinimg.com/736x/3e/b4/11/3eb4110870c08db8cc69f963d440c53e.jpg&type=speech&height=200&color=gradient&text=WE'LL%20COME%20🥳&animation=blinking&fontAlign=36&fontAlignY=36&descAlign=62&reversal=false&textBg=false" width="100%">
 </div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=70&pause=500&color=00FF00&center=true&width=1150&height=200&lines=PLEASE-FORK-STAR-BOT-REPO" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=70&pause=500&color=00FF00&center=true&width=1150&height=200&lines=This-Program-Develop-By-SOMAGAM" alt="Typing SVG" /></a>
   </div>
 <a><img src='https://i.ibb.co/VWt5CXzX/malvin-xd.jpg'/></a>
 
@@ -30,19 +30,19 @@
 <div align="center">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+MALVIN+XD+BETTER+OPTION;🔥+THE+MOST+POWERFUL+WHATSAPP+BOT;💻+DEVELOPER+BY+MR+XDKING2;🚀+MALVIN-XD+SOLUTIONS;🌈+FAST+⚡+SECURE+🔒+RELIABLE+✅" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+SAHEB+XD+BETTER+OPTION;🔥+THE+MOST+POWERFUL+WHATSAPP+BOT;💻+DEVELOPER+BY+MR+SOMAGAM;🚀+SOMAGAM-XD+SOLUTIONS;🌈+FAST+⚡+SECURE+🔒+RELIABLE+✅" alt="Typing Animation">
 </h1>
 
 
 ***BOT FEATURE ⤵️***
 
-| Menu ⁠➜ | Status Save + Send | Group | ChatBot | Downloading | Antidelete | Ai | Viewonce | Fun | Status Reply | Status Reacts | HeartReacts | Autoreacts | Call Rejecter 
+| Menu ⁠➜ | Status Save + Send | Group | ChatBot | Downloading | Antidelete | Ai | Viewonce | Fun | Status Reply | Status Reacts | HeartReacts | Autoreacts | Call Rejecter | User Friendly
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Work ➜ |✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|
 
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=00FF00&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=MALVIN-XD;MR+MALVIN+KING;THANKS+FOR+USING" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=00FF00&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=SOMAGAM-XD;MR+SOMAGAM+KING;THANKS+FOR+USING" alt="Typing SVG" /></a>
 </p>
 
 ### 🚀 Fork the Repository
@@ -51,7 +51,7 @@
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+⭐+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
 
-<a href="https://github.com/XdKing2/MALVIN-XD/fork"><img src="https://img.shields.io/github/forks/XdKing2/MALVIN-XD?style=for-the-badge&logo=github&color=4c1&label=Fork%20MALVIN-XD" alt="Fork MALVIN-XD" /></a>
+<a href="https://github.com/XdKing2/MALVIN-XD/fork"><img src="https://img.shields.io/github/forks/XdKing2/MALVIN-XD?style=for-the-badge&logo=github&color=4c1&label=Fork%20SOMAGAM-XD" alt="BY-SOMAGAM-XD" /></a>
 
 </div>
 <!-- Glowing Header -->
@@ -60,7 +60,7 @@
 </p>
 
 
-> ⚠️ **IMPORTANT**: You must fork the [MALVIN-XD repository](https://github.com/XdKing2/MALVIN-XD/fork) first to access session web!
+> ⚠️ **IMPORTANT**: You must fork the [SOMAGAM-XD repository](https://github.com/Coder-Saheb/Narow-Xbot-Saheb/edit/main/README.md) first to access session web!
 
 
 
@@ -90,11 +90,11 @@ Authenticate using the *web button* below to generate your `Session ID`.
 <div align="center">
   <table>
     <tr>
-      <td><a href="https://dashboard.heroku.com/new-app?template=https://github.com/XdKing2/MALVIN-XD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=0000FF"/></a></td>
+      <td><a href="https://dashboard.heroku.com/new-app?template=https://github.com/XdKing2/SOMAGAM-XD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=0000FF"/></a></td>
       <td><a href="https://host.talkdrove.com/dashboard/deploy-bot/75" target="_blank"><img src="https://img.shields.io/badge/TalkDrove-A52A2A?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
-      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=XdKing2/MALVIN-XD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=XdKing2/SOMAGAM-XD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
       <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
@@ -175,9 +175,10 @@ Authenticate using the *web button* below to generate your `Session ID`.
 <summary>⚠️ DISCLAIMER</summary>
 
 
-- ❗ MALVIN-XD is **not affiliated with WhatsApp Inc.**
+- ❗ SOMAGAM-XD is **not affiliated with WhatsApp Inc.**
 - 🚫 Misuse may lead to account bans. Use responsibly.
 - 🛑 **Cloning, redistributing, or modifying** is strictly prohibited.
+- !!! Its just demo and testing model !!!
 
 <p align="center">
   <img src="https://i.imgur.com/LyHic3i.gif" alt="divider"/>
@@ -194,9 +195,9 @@ Authenticate using the *web button* below to generate your `Session ID`.
 <summary>💡 CREDITS & CONTRIBUTORS</summary>
  
 
-> Built with ❤️ by **Malvin King**
+> Built with ❤️ by **DEVELOPER SOMAGAM**
 
-- 👤 [Malvin King](https://github.com/XdKing2) — Creator & Maintainer  
+- 👤 [DEVELOPER SOMAGAM](https://github.com/Coder-Saheb/Narow-Xbot-Saheb/edit/main/README.md) — Creator & Maintainer  
   - Core features, plugin manager, deployment tools, performance optimization
 
 </div>
@@ -210,13 +211,13 @@ Authenticate using the *web button* below to generate your `Session ID`.
 ## 🗃️ PROJECT ARCHITECTS
 
 <p align="center">
-  <a href="https://github.com/XdKing2">
+  <a href="https://github.com/Coder-Saheb/Narow-Xbot-Saheb/edit/main/README.md">
     <img src="https://github-readme-stats.vercel.app/api?username=XdKing2&show_icons=true&theme=radical" />
   </a>
 </p>
 
 <div align="center">
-  <img src="https://github.com/XdKing2/MALVIN-XD/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
+  <img src="https://github.com/Coder-Saheb/Narow-Xbot-Saheb/edit/main/README.md/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
 </div>
 
 </div>
@@ -233,7 +234,7 @@ Authenticate using the *web button* below to generate your `Session ID`.
 > 🔔 Stay connected for updates, feature drops, and tutorials!
 
 - ▶️ **YouTube: MalvinTech**  
-  [![Subscribe YouTube](https://img.shields.io/badge/Subscribe-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@malvintech2)
+  [![FOLLOW INSTAGRAM](_sahebx_)
 
 <p align="center">
   <img src="https://i.imgur.com/LyHic3i.gif" alt="footer divider"/>
@@ -247,7 +248,7 @@ Authenticate using the *web button* below to generate your `Session ID`.
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
 
-## 🤖 _MALVIN-XD STATUS_
+## 🤖 _SOMAGAM-XD STATUS_
 
 ```diff
 + Project Status: Active
@@ -267,11 +268,11 @@ Authenticate using the *web button* below to generate your `Session ID`.
 
 </div>
 
-<p align="center"> <img src="https://i.imgur.com/LyHic3i.gif" /> </p> <h2 align="center">💫 Thanks to our loyal followers</h2> <p align="center"> <a href="https://github.com/XdKing2/MALVIN-XD/stargazers"> <img src="http://reporoster.com/stars/dark/XdKing2/MALVIN-XD" alt="Stargazers repo roster for @XdKing2/MALVIN-XD"> </a> </p> <p align="center"> <a href="https://github.com/XdKing2/MALVIN-XD/network/members"> <img src="http://reporoster.com/forks/dark/XdKing2/MALVIN-XD" alt="Forkers repo roster for @XdKing2/MALVIN-XD"> </a> </p> 
+<p align="center"> <img src="https://i.imgur.com/LyHic3i.gif" /> </p> <h2 align="center">💫 Thanks to our loyal followers</h2> <p align="center"> <a href="https://github.com/_sahebx_/SOMAGAM/stargazers"> <img src="http://reporoster.com/stars/dark/_sahebx_/MALVIN-XD" alt="Stargazers repo roster for @_sahebx_/SOMAGAM-XD"> </a> </p> <p align="center"> <a href="https://github.com/_sahebx_/SOMAGAM-XD/network/members"> <img src="http://reporoster.com/forks/dark/_sahebx_/SOMAGAM-XD" alt="Forkers repo roster for _sahebx_/SOMAGAM-XD"> </a> </p> 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 ## Support Project
 > any amount will help keep the project upto date and more advanced
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-00457C?logo=paypal)](https://www.paypal.com/donate?hosted_button_id=3UEDDCYD4AR9U)
+
